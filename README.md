@@ -1,2 +1,2 @@
 # KMean-Sklearn
-Clustering data using package package sklearn (scikit-learn)
+Clustering data using package sklearn (scikit-learn)
